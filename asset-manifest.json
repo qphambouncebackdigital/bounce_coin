@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5417a84.chunk.css",
+    "main.js": "/static/js/main.17cddac3.chunk.js",
+    "main.js.map": "/static/js/main.17cddac3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.864bfbd9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.864bfbd9.js.map",
+    "static/css/2.d6008dad.chunk.css": "/static/css/2.d6008dad.chunk.css",
+    "static/js/2.3583427a.chunk.js": "/static/js/2.3583427a.chunk.js",
+    "static/js/2.3583427a.chunk.js.map": "/static/js/2.3583427a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d6008dad.chunk.css.map": "/static/css/2.d6008dad.chunk.css.map",
+    "static/css/main.a5417a84.chunk.css.map": "/static/css/main.a5417a84.chunk.css.map",
+    "static/js/2.3583427a.chunk.js.LICENSE.txt": "/static/js/2.3583427a.chunk.js.LICENSE.txt",
+    "static/media/Artist.ec3a24e1.png": "/static/media/Artist.ec3a24e1.png",
+    "static/media/Careers.9051e0f9.png": "/static/media/Careers.9051e0f9.png",
+    "static/media/Content Creator.3243c6f7.png": "/static/media/Content Creator.3243c6f7.png",
+    "static/media/Crypto-currency.29c6dbeb.png": "/static/media/Crypto-currency.29c6dbeb.png",
+    "static/media/Developer.886ed4a3.png": "/static/media/Developer.886ed4a3.png",
+    "static/media/Finding Illustration.838a3689.png": "/static/media/Finding Illustration.838a3689.png",
+    "static/media/GreenLogo.ba4f782b.png": "/static/media/GreenLogo.ba4f782b.png",
+    "static/media/Interested in Bounce Back Digital.968f5cd2.png": "/static/media/Interested in Bounce Back Digital.968f5cd2.png",
+    "static/media/Parent.8065c9b6.png": "/static/media/Parent.8065c9b6.png",
+    "static/media/Student.08a44386.png": "/static/media/Student.08a44386.png",
+    "static/media/style.css": "/static/media/main.539363ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.864bfbd9.js",
+    "static/css/2.d6008dad.chunk.css",
+    "static/js/2.3583427a.chunk.js",
+    "static/css/main.a5417a84.chunk.css",
+    "static/js/main.17cddac3.chunk.js"
+  ]
+}
