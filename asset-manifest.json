@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "//qphambouncebackdigital.github.io/bounce_coin/static/css/main.4636e7f1.chunk.css",
-    "main.js": "//qphambouncebackdigital.github.io/bounce_coin/static/js/main.d93bc7e1.chunk.js",
-    "main.js.map": "//qphambouncebackdigital.github.io/bounce_coin/static/js/main.d93bc7e1.chunk.js.map",
+    "main.js": "//qphambouncebackdigital.github.io/bounce_coin/static/js/main.a19da30b.chunk.js",
+    "main.js.map": "//qphambouncebackdigital.github.io/bounce_coin/static/js/main.a19da30b.chunk.js.map",
     "runtime-main.js": "//qphambouncebackdigital.github.io/bounce_coin/static/js/runtime-main.389186c4.js",
     "runtime-main.js.map": "//qphambouncebackdigital.github.io/bounce_coin/static/js/runtime-main.389186c4.js.map",
     "static/css/2.d6008dad.chunk.css": "//qphambouncebackdigital.github.io/bounce_coin/static/css/2.d6008dad.chunk.css",
@@ -29,6 +29,6 @@
     "static/css/2.d6008dad.chunk.css",
     "static/js/2.9f76a450.chunk.js",
     "static/css/main.4636e7f1.chunk.css",
-    "static/js/main.d93bc7e1.chunk.js"
+    "static/js/main.a19da30b.chunk.js"
   ]
 }
